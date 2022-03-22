@@ -1,10 +1,10 @@
 fun main() {
-    name("Queenter")
+    name("Tanya")
     var y = reminder(30,4)
     println(y)
     var q = addition(100,200,300,400)
     println(q)
-    fact("i am empathetic")
+    fact("i am beautiful")
 }
 fun name(name: String){
 println("Hello $name")
